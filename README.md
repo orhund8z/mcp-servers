@@ -6,7 +6,7 @@ share one build.
 
 [![pages-build-deployment](https://github.com/odalabasmaz/mcp-servers/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/odalabasmaz/mcp-servers/actions/workflows/pages/pages-build-deployment)
 
-📖 **[Docs / Dokümantasyon](https://odalabasmaz.github.io/mcp-servers/)** — bilingual (TR/EN) visual walkthrough of every server.
+📖 **[Docs / Dokümantasyon](https://orhund8z.github.io/mcp-servers/)** — bilingual (TR/EN) visual walkthrough of every server.
 
 ## Servers
 
@@ -62,7 +62,7 @@ npm test
 
 ## Docs page
 
-**[odalabasmaz.github.io/mcp-servers](https://odalabasmaz.github.io/mcp-servers/)**
+**[orhund8z.github.io/mcp-servers](https://orhund8z.github.io/mcp-servers/)**
 — a single-page, bilingual (TR/EN) visual walkthrough of every server:
 architecture diagrams, tool/resource/prompt tables, and the real bugs found
 while building each one. Source: [`docs/index.html`](docs/index.html),
